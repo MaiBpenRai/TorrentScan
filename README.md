@@ -1,6 +1,8 @@
 # TorrentScan
 Simple program to check your torrent library
 
+![Program UI](torrentscan.png)
+
 This program assumes that you have a folder full of torrent folder where you downloaded your games
 Select you folder, it will list the sub folders and you can click the name
 You then can select if it needs to search on the steam store or the web
